@@ -1,0 +1,14 @@
+{
+  "articles": [
+    { "artNr": 40165, "name": "Banan", "width": 115, "length": 175, "depth": 70, "weight": 50 },
+    { "artNr": 40166, "name": "Boll", "width": 600, "length": 600, "depth": 600, "weight": 10000 },
+    { "artNr": 40167, "name": "Kroppkaka", "width": 200, "length": 300, "depth": 100, "weight": 4999 },
+    { "artNr": 40168, "name": "Penna", "width": 650, "length": 610, "depth": 600, "weight": 5000 },
+    { "artNr": 4016889, "name": "Hoppborg", "width": 650, "length": 610, "depth": 600, "weight": 5000 },
+    { "artNr": 4016620, "name": "Stor gummiboll", "width": 400, "length": 350, "depth": 120, "weight": 3000 },
+    { "artNr": 4016714, "name": "USB-minne", "width": 600, "length": 550, "depth": 80, "weight": 6000 },
+    { "artNr": 4016875, "name": "Bordsfläkt", "width": 250, "length": 200, "depth": 100, "weight": 2000 },
+    { "artNr": 401692, "name": "Musmatta", "width": 550, "length": 480, "depth": 90, "weight": 4500 },
+    { "artNr": 401708, "name": "Handduk", "width": 100, "length": 100, "depth": 60, "weight": 2500 }
+  ]
+ }
